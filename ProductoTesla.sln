@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductoTesla", "ProductoTesla.csproj", "{FCA459D5-4BD0-463B-BD7F-44440BC862C6}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupProductoTesla", "SetupProductoTesla\SetupProductoTesla.vdproj", "{A5D91D29-0274-45A7-9376-8B6989931793}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCA459D5-4BD0-463B-BD7F-44440BC862C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCA459D5-4BD0-463B-BD7F-44440BC862C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCA459D5-4BD0-463B-BD7F-44440BC862C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCA459D5-4BD0-463B-BD7F-44440BC862C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5D91D29-0274-45A7-9376-8B6989931793}.Debug|Any CPU.ActiveCfg = Debug
+		{A5D91D29-0274-45A7-9376-8B6989931793}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D86C24FB-ED9E-4336-B6E8-954C0E241247}
+	EndGlobalSection
+EndGlobal
